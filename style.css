@@ -1,0 +1,234 @@
+body,
+.jumbotron {
+    padding: 30px;
+}
+
+.text-giant {
+    font-size: 40px;
+}
+
+.btn-crazy {
+    position: absolute;
+    top: 30px;
+    left: 35%;
+    width: 15%;
+    transition: 0.1s ease all;
+    text-align: center;
+}
+.btn-1{
+    background-color: #48586f;
+    color: wheat;
+}
+.btn-2{
+    background-color: #ffffc0;
+    
+}
+.btn-3{
+    background-color: #283d3e;
+    color: wheat;
+}
+.btn-4{
+    background-color: #c0d860;
+    color: wheat;
+}
+.btn-5{
+    background-color: #1c8080;
+    color: white;
+}
+.btn-6{
+    background-color: #c0d860;
+    color: black;
+}
+.btn-7{
+    background-color: #5b7c8d;
+    color: white;
+}
+.btn-8{
+    background-color: #4f2958;
+    color: white;
+}
+.btn-9{
+    background-color: #74bf9d;
+    color: wheat;
+}
+.btn-10{
+    background-color: #680a1d;
+    color: white;
+}
+.btn-11{
+    background-color: #3f1719;
+    color: wheat;
+}
+.btn-12{
+    background-color: #f23e02;
+    color: black;
+}
+.btn-13{
+    background-color: #fa7a32;
+    color: black;
+}
+.btn-14{
+    background-color: #86f485;
+    color: black;
+}
+.btn-15{
+    background-color: #feffd4;
+    color: black;
+}
+.btn-16{
+    background-color: #0d0f36;
+    color: white;
+}
+.btn-17{
+    background-color: #838689;
+    color: black;
+}
+.btn-18{
+    background-color: #bef202;
+    color: black;
+}
+.btn-19{
+    background-color: #827085;
+    color: black;
+}
+.btn-20{
+    background-color: #046d8b;
+    color: black;
+}
+
+
+.btn-crazy:nth-child(2){
+    position: absolute;
+    top: 70px;
+    left:70px
+}
+.btn-crazy:nth-child(3){
+    position: absolute;
+    top: 270px;
+    left:40px
+}
+.btn-crazy:nth-child(4){
+    position: absolute;
+    top: 470px;
+    left:350px
+}
+.btn-crazy:nth-child(5){
+    position: absolute;
+    top: 320px;
+    left:500px
+}
+.btn-crazy:nth-child(6){
+    position: absolute;
+    top: 500px;
+    left:170px
+}
+.btn-crazy:nth-child(7){
+    position: absolute;
+    top: 220px;
+    left:270px
+}
+.btn-crazy:nth-child(8){
+    position: absolute;
+    top: 390px;
+    left:75%;
+}
+.btn-1{
+    position: absolute;
+    top: 120px;
+    left: 395px;
+}
+.btn-2{
+    position: absolute;
+    top: 140px;
+    left: 335px;
+}
+.btn-3{
+    position: absolute;
+    top: 160px;
+    left: 425px;
+}
+.btn-4{
+    position: absolute;
+    top: 210px;
+    left: 525px;
+}
+.btn-5{
+    position: absolute;
+    top: 220px;
+    left: 535px;
+}
+.btn-6{
+    position: absolute;
+    top: 310px;
+    left: 325px;
+}
+.btn-7{
+    position: absolute;
+    top: 530px;
+    left: 625px;
+}
+.btn-8{
+    position: absolute;
+    top: 520px;
+    left: 325px;
+}
+.btn-9{
+    position: absolute;
+    top: 510px;
+    left: 425px;
+}
+.btn-10{
+    position: absolute;
+    top: 520px;
+    left: 525px;
+}
+.btn-11{
+    position: absolute;
+    top: 70%;
+    left: 90%;
+}
+.btn-12{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+}
+.btn-13{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+}
+.btn-14{
+    position: absolute;
+    top: 10%;
+    left: 80%;
+}
+.btn-15{
+    position: absolute;
+    top: 5%;
+    left: 70%;
+}
+.btn-16{
+    position: absolute;
+    top: 70%;
+    left: 68%;
+}
+.btn-17{
+    position: absolute;
+    top: 65%;
+    left: 70%;
+}
+.btn-18{
+    position: absolute;
+    top: 30%;
+    left: 4%;
+}
+.btn-19{
+    position: absolute;
+    top: 170px;
+    left: 25%;
+}
+.btn-20{
+    position: absolute;
+    top: 120px;
+    left: 34%;
+}
